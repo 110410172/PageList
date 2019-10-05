@@ -46,7 +46,7 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
-!favicon.ico
+
 
 # DNX
 project.lock.json
@@ -77,6 +77,8 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+
+!favicon.ico
 
 # Chutzpah Test files
 _Chutzpah*
