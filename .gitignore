@@ -46,6 +46,8 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+!favicon.ico
+
 # DNX
 project.lock.json
 project.fragment.lock.json
