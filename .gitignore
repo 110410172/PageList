@@ -78,8 +78,6 @@ artifacts/
 *.svclog
 *.scc
 
-!./favicon.ico
-
 # Chutzpah Test files
 _Chutzpah*
 
