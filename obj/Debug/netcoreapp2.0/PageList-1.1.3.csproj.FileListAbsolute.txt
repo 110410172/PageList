@@ -1,0 +1,9 @@
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\bin\Debug\netcoreapp2.0\PageList.deps.json
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\bin\Debug\netcoreapp2.0\PageList.dll
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\bin\Debug\netcoreapp2.0\PageList.pdb
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList-1.1.3.csprojAssemblyReference.cache
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList-1.1.3.csproj.CoreCompileInputs.cache
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList-1.1.3.AssemblyInfoInputs.cache
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList-1.1.3.AssemblyInfo.cs
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList.dll
+G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\obj\Debug\netcoreapp2.0\PageList.pdb
