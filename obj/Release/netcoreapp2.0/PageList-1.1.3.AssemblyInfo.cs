@@ -11,9 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("kmsun.com")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("jack.sun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("2018-kmsun.jack.sun")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("2018.jack.sun")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("for paging")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.3.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PageList")]

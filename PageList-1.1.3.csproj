@@ -5,12 +5,23 @@
     <AssemblyName>PageList</AssemblyName>
     <RootNamespace>PageList</RootNamespace>
     <Version>1.1.3</Version>
-    <Copyright>2018-kmsun.jack.sun</Copyright>
-    <Company>kmsun.com</Company>
+    <Copyright>2018.jack.sun</Copyright>
+    <Company></Company>
     <Authors>jack.sun</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>for paging</Description>
-    <PackageLicenseExpression>MIT License</PackageLicenseExpression>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/110410172/PageList</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/110410172/PageList.git</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <Win32Resource />
   </PropertyGroup>
-
+  <ItemGroup>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 </Project>

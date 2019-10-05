@@ -6,13 +6,19 @@
     <authors>jack.sun</authors>
     <owners>jack.sun</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package Description</description>
-    <copyright>2018-kmsun.jack.sun</copyright>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/110410172/PageList</projectUrl>
+    <description>for paging</description>
+    <copyright>2018.jack.sun</copyright>
+    <repository type="github" url="https://github.com/110410172/PageList.git" />
     <dependencies>
       <group targetFramework=".NETCoreApp2.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="G:\项目\ToolsLib.NET\ToolsLib.NET.CORE\PageList\bin\Release\netcoreapp2.0\PageList.dll" target="lib\netcoreapp2.0\PageList.dll" />
+    <file src="G:\personal.info\opensouces\Sun.PageList\bin\Release\netcoreapp2.0\PageList.dll" target="lib\netcoreapp2.0\PageList.dll" />
+    <file src="G:\personal.info\opensouces\Sun.PageList\icon.png" target="icon.png" />
+    <file src="G:\personal.info\opensouces\Sun.PageList\LICENSE" target="LICENSE" />
   </files>
 </package>
