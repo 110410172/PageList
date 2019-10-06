@@ -18,7 +18,7 @@
   </metadata>
   <files>
     <file src="G:\personal.info\opensouces\Sun.PageList\bin\Release\netcoreapp2.0\PageList.dll" target="lib\netcoreapp2.0\PageList.dll" />
-    <file src="G:\personal.info\opensouces\Sun.PageList\icon.png" target="icon.png" />
+    <file src="G:\personal.info\opensouces\Sun.PageList\images\icon.png" target="\icon.png" />
     <file src="G:\personal.info\opensouces\Sun.PageList\LICENSE" target="LICENSE" />
   </files>
 </package>
