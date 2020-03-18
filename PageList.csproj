@@ -1,15 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>PageList</AssemblyName>
     <RootNamespace>PageList</RootNamespace>
-    <Version>1.1.3</Version>
+    <Version>1.2.0</Version>
     <Copyright>2018.jack.sun</Copyright>
     <Company></Company>
     <Authors>jack.sun</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>for paging</Description>
+    <Description>for paging dependent on .net core 3.1</Description>
     <PackageLicenseExpression></PackageLicenseExpression>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/110410172/PageList</PackageProjectUrl>
@@ -18,6 +18,7 @@
     <ApplicationIcon></ApplicationIcon>
     <PackageIcon>icon.png</PackageIcon>
     <Win32Resource />
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
   <ItemGroup>
     <None Include="images\icon.png" Pack="true" PackagePath="\" />
