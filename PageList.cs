@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace PageList
@@ -14,5 +15,13 @@ namespace PageList
         public int recordCount { get; set; }
         public int pageCount { get; set; }
         public List<TEntity> rows { get; set; }
+    }
+
+    public partial class PageIQueryable<TEntity>
+    {
+        public int currentPage { get; set; }
+        public int recordCount { get; set; }
+        public int pageCount { get; set; }
+        public IQueryable<TEntity> rows { get; set; }
     }
 }

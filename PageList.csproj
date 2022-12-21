@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>PageList</AssemblyName>
     <RootNamespace>PageList</RootNamespace>
-    <Version>1.2.0</Version>
+    <Version>1.2.3</Version>
     <Copyright>2018.jack.sun</Copyright>
     <Company></Company>
     <Authors>jack.sun</Authors>
@@ -19,6 +19,8 @@
     <PackageIcon>icon.png</PackageIcon>
     <Win32Resource />
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.2.3.0</AssemblyVersion>
+    <FileVersion>1.2.3.0</FileVersion>
   </PropertyGroup>
   <ItemGroup>
     <None Include="images\icon.png" Pack="true" PackagePath="\" />
